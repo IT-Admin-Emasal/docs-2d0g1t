@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-64d6yj.deposit1casino.co.nz/sitemap.xml
